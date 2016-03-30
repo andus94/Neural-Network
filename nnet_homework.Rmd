@@ -1,8 +1,8 @@
 ---
-title: "Homework - Neural Networks and Gradient Descent"
+title: "Neural Networks and Gradient Descent"
 author: "Andus Kong"
 date: "February 25, 2016"
-output: html_document
+output: pdf_document
 ---
 
 For this homework assignment, we will build and train a simple neural network, using the famous "iris" dataset. We will take the four variables `Sepal.Length`, `Sepal.Width`, `Petal.Length`, and `Petal.Width` to create a prediction for the species.
@@ -329,7 +329,7 @@ results
 
 How many errors did your network make?
 
-Answer: My network made zero errors
+Answer: My network made zero errors. The right most column refers to which row the column the 1's should be.
 
 ## Using package `nnet`
 
